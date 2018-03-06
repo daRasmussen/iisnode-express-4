@@ -1,0 +1,17 @@
+[0mGET /node/myapp/ [32m200 [0m570.958 ms - 170[0m
+[0mGET /node/myapp/users [32m200 [0m1.173 ms - 23[0m
+[0mGET /node/myapp/user [33m404 [0m31.624 ms - 1155[0m
+[0mGET /node/myapp/user [33m404 [0m21.180 ms - 1155[0m
+[0mGET /node/myapp/users [36m304 [0m1.232 ms - -[0m
+[0mGET /node/myapp/users [36m304 [0m0.585 ms - -[0m
+[0mGET /node/myapp/users [36m304 [0m0.338 ms - -[0m
+[0mGET /node/myapp/users [36m304 [0m0.393 ms - -[0m
+[0mGET /node/myapp/users [32m200 [0m0.379 ms - 23[0m
+[0mGET /node/myapp/users [36m304 [0m0.328 ms - -[0m
+[0mGET /node/myapp/ [32m200 [0m8.511 ms - 170[0m
+[0mGET /node/myapp/users [36m304 [0m0.518 ms - -[0m
+[0mGET /node/myapp/users [36m304 [0m0.525 ms - -[0m
+[0mGET /node/myapp [32m200 [0m9.474 ms - 170[0m
+[0mGET /node/myapp/users [32m200 [0m0.421 ms - 23[0m
+[0mGET /node/myapp/ [36m304 [0m21.466 ms - -[0m
+[0mGET /node/myapp/users [36m304 [0m0.544 ms - -[0m
