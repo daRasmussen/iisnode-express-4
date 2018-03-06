@@ -1,0 +1,10 @@
+[0mGET /node/myapp/user [33m404 [0m557.742 ms - 1155[0m
+[0mGET /node/myapp/user [33m404 [0m41.241 ms - 1168[0m
+[0mGET /node/myapp/user [33m404 [0m25.723 ms - 1176[0m
+[0mGET /node/myapp/user [33m404 [0m12.996 ms - 1155[0m
+[0mGET /node/myapp/ [36m304 [0m18.406 ms - -[0m
+[0mGET /node/myapp/ [32m200 [0m13.390 ms - 170[0m
+[0mGET /node/myapp/ [36m304 [0m22.279 ms - -[0m
+[0mGET /node/myapp/ [36m304 [0m12.638 ms - -[0m
+[0mGET /node/myapp/ [32m200 [0m13.749 ms - 188[0m
+[0mGET /node/myapp/public/stylesheets/style.css [32m200 [0m86.897 ms - 136[0m
